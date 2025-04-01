@@ -1,3 +1,6 @@
+# Password_Master
+A password management system working for users only to show their secret passwords and other credentials
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
